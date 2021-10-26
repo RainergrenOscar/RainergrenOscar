@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello! I'm Oscar Rainergren 👋
 
-<!--
-**RainergrenOscar/RainergrenOscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-end Developer student at KYH Stockholm
 
-Here are some ideas to get you started:
+### Languages and tools
+ - JAVASCRIPT
+ - HTML5
+ - CSS3
+ - Git
+ - Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### What I do for fun / hobbies
+  - Programming 💻
+  - Music 🎸
+  - Working out 🥋
+  
+ ### What am i up to?
+
+- 🔭 I’m currently working studying Front-end Development at KYH in Stockholm
+- 🌱 I’m currently learning new things everyday
+
+- 📫 You can reach me at: oscar.rainergren@hotmail.com
+- 🔍 My portfolio is currently under construction...
+
+
