@@ -8,6 +8,7 @@
  - CSS3
  - Git
  - Figma
+ - Im learning new things everyday
 
 
 ### What I do for fun / hobbies
