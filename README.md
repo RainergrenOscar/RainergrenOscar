@@ -6,6 +6,8 @@
  - JAVASCRIPT
  - HTML5
  - CSS3
+ - Bootstrap
+ - SASS
  - Git
  - Figma
  - Im learning new things everyday
