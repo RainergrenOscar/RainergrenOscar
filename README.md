@@ -4,6 +4,7 @@
 
 ### Languages and tools
  - JAVASCRIPT
+ - React
  - HTML5
  - CSS3
  - Bootstrap
