@@ -24,7 +24,7 @@
 - 🔭 I’m currently working studying Front-end Development at KYH in Stockholm
 - 🌱 I’m currently learning new things everyday
 
-- 📫 You can reach me at: oscar.rainergren@hotmail.com
-- 🔍 My portfolio is currently under construction...
+- 📫 You can reach me at: Oscar@rainergren.se
+- 🔍 My portfolio : Oscarrainergren.se
 
 
