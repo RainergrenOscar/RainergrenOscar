@@ -5,13 +5,16 @@
 ### Languages and tools
  - JAVASCRIPT
  - React
+ - Firebase
  - HTML5
  - CSS3
+ - Sass
+ - Tailwind
  - Bootstrap
  - SASS
  - Git
  - Figma
- - Im learning new things everyday
+ - Im currently learning Next.js
 
 
 ### What I do for fun / hobbies
