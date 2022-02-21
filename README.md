@@ -11,14 +11,14 @@
 
 - 👯 I’m looking to collaborate
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]https://oscarrainergren.se/**
+- 👨‍💻 All of my projects are available at **https://oscarrainergren.se/**
 
 - 📫 How to reach me **oscar@rainergren.se**
 
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -43,7 +43,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/rainergrenoscar/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rainergrenoscar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/rainergrenoscar/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rainergrenoscar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/rainergrenoscar/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainergrenoscar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
